@@ -1,8 +1,8 @@
-# Narrated Video Kit
+# Narrated Video Kit: Remotion + ElevenLabs explainer videos, timed word by word
+
+Write a script and get a narrated explainer video, built in code with Remotion and ElevenLabs: every scene timed to the voice word by word, in vertical and 16:9, with burned-in captions, an SRT file, leveled audio, thumbnails and a one-page review sheet. Captions-only mode lays out the whole video with no API key, before any voice is generated.
 
 The kit's code is Apache-2.0. It runs on [Remotion](https://www.remotion.dev), which is source-available and free only for individuals and teams of up to 3 people ([details below](#remotions-licence)).
-
-Write a script and get a narrated explainer video, built in code: every scene timed to the voice word by word, in vertical and 16:9, with burned-in captions, an SRT file, leveled audio, thumbnails and a one-page review sheet.
 
 ![The wide cut of the example video: a message lands on the phone exactly as the caption reaches the word "now", and the right panel shows that word's timing](docs/word-cue.gif)
 
@@ -79,6 +79,15 @@ The default model is `eleven_v4`; set `"model"` in a script to use another. The 
 5. Run `npm run make -- my-video`. Then replace the template's visuals one scene at a time, using the parts in `src/parts.tsx` (`Stack`, `Big`, `Small`, `Eyebrow`, `Card`, `Chips`, `Phone`, `Thread`, `Stamp`, `Result`, `EndCard`) and `cue()`, as `src/examples/Explainer.tsx` does. Check your work with `npm run still -- sheet-my-video out/sheet.png`.
 6. Restyle everything in `src/theme.ts`: colours, fonts, and the name, site and logo on the end card.
 
+## With a coding agent
+
+Nobody on our team edits video. A coding agent (we use Claude Code) does the steps above: it writes the lines in `src/narration/<id>.json`, builds each scene from the parts in `src/parts.tsx`, runs `npm run make`, and checks the review sheet (`npm run still -- sheet-<id> out/sheet.png`) instead of watching the render. Because every visual waits on `cue()`, an edit to one line can't quietly push the rest of the video out of sync: the render stops and quotes the line.
+
+Two habits save time and credits:
+
+- Lay out and review the whole video with `--captions-only` first, and voice it once at the end.
+- Read the loudness numbers `npm run make` prints instead of playing the file.
+
 ## When something fails
 
 Every script stops with `Error:`, what went wrong, and the next step. The common ones:
@@ -128,4 +137,8 @@ Apache-2.0 (see `LICENSE` and `NOTICE`). The `NOTICE` file must travel with copi
 
 ---
 
-**Built by GoodHandoff**, which makes its own explainer videos with the engine in this kit. We build and run the automation that carries a home service job from the first call to the final payment, inside the company's own CRM, phone and texting tools: [goodhandoff.com](https://goodhandoff.com/?utm_source=github&utm_medium=readme&utm_campaign=narrated-video-kit).
+## Why it's free
+
+Every video on our channel comes out of this engine, made by an agent with AI voices. We publish it because the code was never the scarce part. Knowing what a three-minute video should say to the person watching it still is. The code is free. The handoff is the work.
+
+**GoodHandoff** builds and runs the automation that carries a home service job from the first call to the final payment, inside the company's own CRM, phone and texting tools: [goodhandoff.com](https://goodhandoff.com/?utm_source=github&utm_medium=readme&utm_campaign=narrated-video-kit&utm_content=footer).
