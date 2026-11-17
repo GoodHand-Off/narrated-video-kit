@@ -1,0 +1,11 @@
+node_modules
+out
+build
+coverage
+.DS_Store
+.env
+.env.local
+.env.elevenlabs
+# Voiced audio and its cache: it belongs to whoever generated it (see CONTRIBUTING.md).
+public/narration/*/*.mp3
+public/narration/*/[0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f].json

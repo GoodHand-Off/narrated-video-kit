@@ -1,0 +1,253 @@
+[
+  {
+    "captionsOnly": true,
+    "text": "This is the template. Every line of its script becomes one scene, and the caption follows the narration.",
+    "seconds": 6.43,
+    "words": [
+      {
+        "w": "This",
+        "start": 0,
+        "end": 0.322
+      },
+      {
+        "w": "is",
+        "start": 0.357,
+        "end": 0.679
+      },
+      {
+        "w": "the",
+        "start": 0.714,
+        "end": 1.036
+      },
+      {
+        "w": "template.",
+        "start": 1.072,
+        "end": 1.393
+      },
+      {
+        "w": "Every",
+        "start": 1.429,
+        "end": 1.75
+      },
+      {
+        "w": "line",
+        "start": 1.786,
+        "end": 2.108
+      },
+      {
+        "w": "of",
+        "start": 2.143,
+        "end": 2.465
+      },
+      {
+        "w": "its",
+        "start": 2.501,
+        "end": 2.822
+      },
+      {
+        "w": "script",
+        "start": 2.858,
+        "end": 3.179
+      },
+      {
+        "w": "becomes",
+        "start": 3.215,
+        "end": 3.537
+      },
+      {
+        "w": "one",
+        "start": 3.572,
+        "end": 3.894
+      },
+      {
+        "w": "scene,",
+        "start": 3.929,
+        "end": 4.251
+      },
+      {
+        "w": "and",
+        "start": 4.287,
+        "end": 4.608
+      },
+      {
+        "w": "the",
+        "start": 4.644,
+        "end": 4.965
+      },
+      {
+        "w": "caption",
+        "start": 5.001,
+        "end": 5.323
+      },
+      {
+        "w": "follows",
+        "start": 5.358,
+        "end": 5.68
+      },
+      {
+        "w": "the",
+        "start": 5.716,
+        "end": 6.037
+      },
+      {
+        "w": "narration.",
+        "start": 6.073,
+        "end": 6.394
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Copy this script and its component, write your own lines, then time them with captions-only mode.",
+    "seconds": 5.71,
+    "words": [
+      {
+        "w": "Copy",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "this",
+        "start": 0.357,
+        "end": 0.678
+      },
+      {
+        "w": "script",
+        "start": 0.714,
+        "end": 1.035
+      },
+      {
+        "w": "and",
+        "start": 1.071,
+        "end": 1.392
+      },
+      {
+        "w": "its",
+        "start": 1.428,
+        "end": 1.749
+      },
+      {
+        "w": "component,",
+        "start": 1.784,
+        "end": 2.106
+      },
+      {
+        "w": "write",
+        "start": 2.141,
+        "end": 2.462
+      },
+      {
+        "w": "your",
+        "start": 2.498,
+        "end": 2.819
+      },
+      {
+        "w": "own",
+        "start": 2.855,
+        "end": 3.176
+      },
+      {
+        "w": "lines,",
+        "start": 3.212,
+        "end": 3.533
+      },
+      {
+        "w": "then",
+        "start": 3.569,
+        "end": 3.89
+      },
+      {
+        "w": "time",
+        "start": 3.926,
+        "end": 4.247
+      },
+      {
+        "w": "them",
+        "start": 4.283,
+        "end": 4.604
+      },
+      {
+        "w": "with",
+        "start": 4.639,
+        "end": 4.961
+      },
+      {
+        "w": "captions-only",
+        "start": 4.996,
+        "end": 5.317
+      },
+      {
+        "w": "mode.",
+        "start": 5.353,
+        "end": 5.674
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Make the video, and add a voice when the scenes look right.",
+    "seconds": 4.29,
+    "words": [
+      {
+        "w": "Make",
+        "start": 0,
+        "end": 0.322
+      },
+      {
+        "w": "the",
+        "start": 0.358,
+        "end": 0.679
+      },
+      {
+        "w": "video,",
+        "start": 0.715,
+        "end": 1.037
+      },
+      {
+        "w": "and",
+        "start": 1.073,
+        "end": 1.394
+      },
+      {
+        "w": "add",
+        "start": 1.43,
+        "end": 1.752
+      },
+      {
+        "w": "a",
+        "start": 1.787,
+        "end": 2.109
+      },
+      {
+        "w": "voice",
+        "start": 2.145,
+        "end": 2.467
+      },
+      {
+        "w": "when",
+        "start": 2.503,
+        "end": 2.824
+      },
+      {
+        "w": "the",
+        "start": 2.86,
+        "end": 3.182
+      },
+      {
+        "w": "scenes",
+        "start": 3.218,
+        "end": 3.539
+      },
+      {
+        "w": "look",
+        "start": 3.575,
+        "end": 3.897
+      },
+      {
+        "w": "right.",
+        "start": 3.932,
+        "end": 4.254
+      }
+    ]
+  }
+]

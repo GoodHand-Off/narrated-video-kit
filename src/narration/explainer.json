@@ -1,0 +1,12 @@
+{
+  "lines": [
+    "This video has no camera, no editor and no voice actor. It's a React component and a script of eight lines.",
+    "Each line of the script becomes one scene. The narration decides how long every scene runs, so nobody drags clips along a timeline.",
+    "The voice comes back with a time for every word. Anything on screen can wait for its word, like this message, which lands right now.",
+    "Captions are cut into short pieces at the punctuation. The same pieces become an SRT file, so YouTube's captions match the picture.",
+    "No voice key yet? Captions-only mode spreads the words at a steady pace, so you can lay out and review every scene before you spend a credit.",
+    "Render it tall for Shorts, Reels and TikTok. Or render the wide cut: the same video in the middle, a headline on the left, and the running state on the right.",
+    "Then one command levels the audio to minus fourteen LUFS, and a review sheet shows a still from every scene on one page.",
+    "Write the script, render the video, and change a line whenever the facts change."
+  ]
+}

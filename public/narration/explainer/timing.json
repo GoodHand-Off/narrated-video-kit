@@ -1,0 +1,988 @@
+[
+  {
+    "captionsOnly": true,
+    "text": "This video has no camera, no editor and no voice actor. It's a React component and a script of eight lines.",
+    "seconds": 7.5,
+    "words": [
+      {
+        "w": "This",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "video",
+        "start": 0.357,
+        "end": 0.679
+      },
+      {
+        "w": "has",
+        "start": 0.714,
+        "end": 1.036
+      },
+      {
+        "w": "no",
+        "start": 1.071,
+        "end": 1.393
+      },
+      {
+        "w": "camera,",
+        "start": 1.429,
+        "end": 1.75
+      },
+      {
+        "w": "no",
+        "start": 1.786,
+        "end": 2.107
+      },
+      {
+        "w": "editor",
+        "start": 2.143,
+        "end": 2.464
+      },
+      {
+        "w": "and",
+        "start": 2.5,
+        "end": 2.821
+      },
+      {
+        "w": "no",
+        "start": 2.857,
+        "end": 3.179
+      },
+      {
+        "w": "voice",
+        "start": 3.214,
+        "end": 3.536
+      },
+      {
+        "w": "actor.",
+        "start": 3.571,
+        "end": 3.893
+      },
+      {
+        "w": "It's",
+        "start": 3.929,
+        "end": 4.25
+      },
+      {
+        "w": "a",
+        "start": 4.286,
+        "end": 4.607
+      },
+      {
+        "w": "React",
+        "start": 4.643,
+        "end": 4.964
+      },
+      {
+        "w": "component",
+        "start": 5,
+        "end": 5.321
+      },
+      {
+        "w": "and",
+        "start": 5.357,
+        "end": 5.679
+      },
+      {
+        "w": "a",
+        "start": 5.714,
+        "end": 6.036
+      },
+      {
+        "w": "script",
+        "start": 6.071,
+        "end": 6.393
+      },
+      {
+        "w": "of",
+        "start": 6.429,
+        "end": 6.75
+      },
+      {
+        "w": "eight",
+        "start": 6.786,
+        "end": 7.107
+      },
+      {
+        "w": "lines.",
+        "start": 7.143,
+        "end": 7.464
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Each line of the script becomes one scene. The narration decides how long every scene runs, so nobody drags clips along a timeline.",
+    "seconds": 8.21,
+    "words": [
+      {
+        "w": "Each",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "line",
+        "start": 0.357,
+        "end": 0.678
+      },
+      {
+        "w": "of",
+        "start": 0.714,
+        "end": 1.035
+      },
+      {
+        "w": "the",
+        "start": 1.071,
+        "end": 1.392
+      },
+      {
+        "w": "script",
+        "start": 1.428,
+        "end": 1.749
+      },
+      {
+        "w": "becomes",
+        "start": 1.785,
+        "end": 2.106
+      },
+      {
+        "w": "one",
+        "start": 2.142,
+        "end": 2.463
+      },
+      {
+        "w": "scene.",
+        "start": 2.499,
+        "end": 2.82
+      },
+      {
+        "w": "The",
+        "start": 2.856,
+        "end": 3.177
+      },
+      {
+        "w": "narration",
+        "start": 3.213,
+        "end": 3.534
+      },
+      {
+        "w": "decides",
+        "start": 3.57,
+        "end": 3.891
+      },
+      {
+        "w": "how",
+        "start": 3.927,
+        "end": 4.248
+      },
+      {
+        "w": "long",
+        "start": 4.283,
+        "end": 4.605
+      },
+      {
+        "w": "every",
+        "start": 4.64,
+        "end": 4.962
+      },
+      {
+        "w": "scene",
+        "start": 4.997,
+        "end": 5.319
+      },
+      {
+        "w": "runs,",
+        "start": 5.354,
+        "end": 5.676
+      },
+      {
+        "w": "so",
+        "start": 5.711,
+        "end": 6.033
+      },
+      {
+        "w": "nobody",
+        "start": 6.068,
+        "end": 6.39
+      },
+      {
+        "w": "drags",
+        "start": 6.425,
+        "end": 6.746
+      },
+      {
+        "w": "clips",
+        "start": 6.782,
+        "end": 7.103
+      },
+      {
+        "w": "along",
+        "start": 7.139,
+        "end": 7.46
+      },
+      {
+        "w": "a",
+        "start": 7.496,
+        "end": 7.817
+      },
+      {
+        "w": "timeline.",
+        "start": 7.853,
+        "end": 8.174
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "The voice comes back with a time for every word. Anything on screen can wait for its word, like this message, which lands right now.",
+    "seconds": 8.93,
+    "words": [
+      {
+        "w": "The",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "voice",
+        "start": 0.357,
+        "end": 0.679
+      },
+      {
+        "w": "comes",
+        "start": 0.714,
+        "end": 1.036
+      },
+      {
+        "w": "back",
+        "start": 1.072,
+        "end": 1.393
+      },
+      {
+        "w": "with",
+        "start": 1.429,
+        "end": 1.75
+      },
+      {
+        "w": "a",
+        "start": 1.786,
+        "end": 2.107
+      },
+      {
+        "w": "time",
+        "start": 2.143,
+        "end": 2.465
+      },
+      {
+        "w": "for",
+        "start": 2.5,
+        "end": 2.822
+      },
+      {
+        "w": "every",
+        "start": 2.858,
+        "end": 3.179
+      },
+      {
+        "w": "word.",
+        "start": 3.215,
+        "end": 3.536
+      },
+      {
+        "w": "Anything",
+        "start": 3.572,
+        "end": 3.893
+      },
+      {
+        "w": "on",
+        "start": 3.929,
+        "end": 4.251
+      },
+      {
+        "w": "screen",
+        "start": 4.286,
+        "end": 4.608
+      },
+      {
+        "w": "can",
+        "start": 4.644,
+        "end": 4.965
+      },
+      {
+        "w": "wait",
+        "start": 5.001,
+        "end": 5.322
+      },
+      {
+        "w": "for",
+        "start": 5.358,
+        "end": 5.679
+      },
+      {
+        "w": "its",
+        "start": 5.715,
+        "end": 6.037
+      },
+      {
+        "w": "word,",
+        "start": 6.072,
+        "end": 6.394
+      },
+      {
+        "w": "like",
+        "start": 6.43,
+        "end": 6.751
+      },
+      {
+        "w": "this",
+        "start": 6.787,
+        "end": 7.108
+      },
+      {
+        "w": "message,",
+        "start": 7.144,
+        "end": 7.465
+      },
+      {
+        "w": "which",
+        "start": 7.501,
+        "end": 7.823
+      },
+      {
+        "w": "lands",
+        "start": 7.858,
+        "end": 8.18
+      },
+      {
+        "w": "right",
+        "start": 8.216,
+        "end": 8.537
+      },
+      {
+        "w": "now.",
+        "start": 8.573,
+        "end": 8.894
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Captions are cut into short pieces at the punctuation. The same pieces become an SRT file, so YouTube's captions match the picture.",
+    "seconds": 7.86,
+    "words": [
+      {
+        "w": "Captions",
+        "start": 0,
+        "end": 0.322
+      },
+      {
+        "w": "are",
+        "start": 0.357,
+        "end": 0.679
+      },
+      {
+        "w": "cut",
+        "start": 0.715,
+        "end": 1.036
+      },
+      {
+        "w": "into",
+        "start": 1.072,
+        "end": 1.393
+      },
+      {
+        "w": "short",
+        "start": 1.429,
+        "end": 1.751
+      },
+      {
+        "w": "pieces",
+        "start": 1.786,
+        "end": 2.108
+      },
+      {
+        "w": "at",
+        "start": 2.144,
+        "end": 2.465
+      },
+      {
+        "w": "the",
+        "start": 2.501,
+        "end": 2.822
+      },
+      {
+        "w": "punctuation.",
+        "start": 2.858,
+        "end": 3.18
+      },
+      {
+        "w": "The",
+        "start": 3.215,
+        "end": 3.537
+      },
+      {
+        "w": "same",
+        "start": 3.573,
+        "end": 3.894
+      },
+      {
+        "w": "pieces",
+        "start": 3.93,
+        "end": 4.252
+      },
+      {
+        "w": "become",
+        "start": 4.287,
+        "end": 4.609
+      },
+      {
+        "w": "an",
+        "start": 4.645,
+        "end": 4.966
+      },
+      {
+        "w": "SRT",
+        "start": 5.002,
+        "end": 5.323
+      },
+      {
+        "w": "file,",
+        "start": 5.359,
+        "end": 5.681
+      },
+      {
+        "w": "so",
+        "start": 5.716,
+        "end": 6.038
+      },
+      {
+        "w": "YouTube's",
+        "start": 6.074,
+        "end": 6.395
+      },
+      {
+        "w": "captions",
+        "start": 6.431,
+        "end": 6.752
+      },
+      {
+        "w": "match",
+        "start": 6.788,
+        "end": 7.11
+      },
+      {
+        "w": "the",
+        "start": 7.145,
+        "end": 7.467
+      },
+      {
+        "w": "picture.",
+        "start": 7.503,
+        "end": 7.824
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "No voice key yet? Captions-only mode spreads the words at a steady pace, so you can lay out and review every scene before you spend a credit.",
+    "seconds": 9.64,
+    "words": [
+      {
+        "w": "No",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "voice",
+        "start": 0.357,
+        "end": 0.678
+      },
+      {
+        "w": "key",
+        "start": 0.714,
+        "end": 1.035
+      },
+      {
+        "w": "yet?",
+        "start": 1.071,
+        "end": 1.392
+      },
+      {
+        "w": "Captions-only",
+        "start": 1.428,
+        "end": 1.749
+      },
+      {
+        "w": "mode",
+        "start": 1.785,
+        "end": 2.107
+      },
+      {
+        "w": "spreads",
+        "start": 2.142,
+        "end": 2.464
+      },
+      {
+        "w": "the",
+        "start": 2.499,
+        "end": 2.821
+      },
+      {
+        "w": "words",
+        "start": 2.856,
+        "end": 3.178
+      },
+      {
+        "w": "at",
+        "start": 3.213,
+        "end": 3.535
+      },
+      {
+        "w": "a",
+        "start": 3.57,
+        "end": 3.892
+      },
+      {
+        "w": "steady",
+        "start": 3.927,
+        "end": 4.249
+      },
+      {
+        "w": "pace,",
+        "start": 4.284,
+        "end": 4.606
+      },
+      {
+        "w": "so",
+        "start": 4.641,
+        "end": 4.963
+      },
+      {
+        "w": "you",
+        "start": 4.999,
+        "end": 5.32
+      },
+      {
+        "w": "can",
+        "start": 5.356,
+        "end": 5.677
+      },
+      {
+        "w": "lay",
+        "start": 5.713,
+        "end": 6.034
+      },
+      {
+        "w": "out",
+        "start": 6.07,
+        "end": 6.391
+      },
+      {
+        "w": "and",
+        "start": 6.427,
+        "end": 6.748
+      },
+      {
+        "w": "review",
+        "start": 6.784,
+        "end": 7.105
+      },
+      {
+        "w": "every",
+        "start": 7.141,
+        "end": 7.462
+      },
+      {
+        "w": "scene",
+        "start": 7.498,
+        "end": 7.819
+      },
+      {
+        "w": "before",
+        "start": 7.855,
+        "end": 8.176
+      },
+      {
+        "w": "you",
+        "start": 8.212,
+        "end": 8.533
+      },
+      {
+        "w": "spend",
+        "start": 8.569,
+        "end": 8.89
+      },
+      {
+        "w": "a",
+        "start": 8.926,
+        "end": 9.247
+      },
+      {
+        "w": "credit.",
+        "start": 9.283,
+        "end": 9.604
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Render it tall for Shorts, Reels and TikTok. Or render the wide cut: the same video in the middle, a headline on the left, and the running state on the right.",
+    "seconds": 11.07,
+    "words": [
+      {
+        "w": "Render",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "it",
+        "start": 0.357,
+        "end": 0.678
+      },
+      {
+        "w": "tall",
+        "start": 0.714,
+        "end": 1.036
+      },
+      {
+        "w": "for",
+        "start": 1.071,
+        "end": 1.393
+      },
+      {
+        "w": "Shorts,",
+        "start": 1.428,
+        "end": 1.75
+      },
+      {
+        "w": "Reels",
+        "start": 1.785,
+        "end": 2.107
+      },
+      {
+        "w": "and",
+        "start": 2.143,
+        "end": 2.464
+      },
+      {
+        "w": "TikTok.",
+        "start": 2.5,
+        "end": 2.821
+      },
+      {
+        "w": "Or",
+        "start": 2.857,
+        "end": 3.178
+      },
+      {
+        "w": "render",
+        "start": 3.214,
+        "end": 3.535
+      },
+      {
+        "w": "the",
+        "start": 3.571,
+        "end": 3.892
+      },
+      {
+        "w": "wide",
+        "start": 3.928,
+        "end": 4.249
+      },
+      {
+        "w": "cut:",
+        "start": 4.285,
+        "end": 4.607
+      },
+      {
+        "w": "the",
+        "start": 4.642,
+        "end": 4.964
+      },
+      {
+        "w": "same",
+        "start": 4.999,
+        "end": 5.321
+      },
+      {
+        "w": "video",
+        "start": 5.356,
+        "end": 5.678
+      },
+      {
+        "w": "in",
+        "start": 5.714,
+        "end": 6.035
+      },
+      {
+        "w": "the",
+        "start": 6.071,
+        "end": 6.392
+      },
+      {
+        "w": "middle,",
+        "start": 6.428,
+        "end": 6.749
+      },
+      {
+        "w": "a",
+        "start": 6.785,
+        "end": 7.106
+      },
+      {
+        "w": "headline",
+        "start": 7.142,
+        "end": 7.463
+      },
+      {
+        "w": "on",
+        "start": 7.499,
+        "end": 7.82
+      },
+      {
+        "w": "the",
+        "start": 7.856,
+        "end": 8.178
+      },
+      {
+        "w": "left,",
+        "start": 8.213,
+        "end": 8.535
+      },
+      {
+        "w": "and",
+        "start": 8.57,
+        "end": 8.892
+      },
+      {
+        "w": "the",
+        "start": 8.927,
+        "end": 9.249
+      },
+      {
+        "w": "running",
+        "start": 9.285,
+        "end": 9.606
+      },
+      {
+        "w": "state",
+        "start": 9.642,
+        "end": 9.963
+      },
+      {
+        "w": "on",
+        "start": 9.999,
+        "end": 10.32
+      },
+      {
+        "w": "the",
+        "start": 10.356,
+        "end": 10.677
+      },
+      {
+        "w": "right.",
+        "start": 10.713,
+        "end": 11.034
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Then one command levels the audio to minus fourteen LUFS, and a review sheet shows a still from every scene on one page.",
+    "seconds": 8.21,
+    "words": [
+      {
+        "w": "Then",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "one",
+        "start": 0.357,
+        "end": 0.678
+      },
+      {
+        "w": "command",
+        "start": 0.714,
+        "end": 1.035
+      },
+      {
+        "w": "levels",
+        "start": 1.071,
+        "end": 1.392
+      },
+      {
+        "w": "the",
+        "start": 1.428,
+        "end": 1.749
+      },
+      {
+        "w": "audio",
+        "start": 1.785,
+        "end": 2.106
+      },
+      {
+        "w": "to",
+        "start": 2.142,
+        "end": 2.463
+      },
+      {
+        "w": "minus",
+        "start": 2.499,
+        "end": 2.82
+      },
+      {
+        "w": "fourteen",
+        "start": 2.856,
+        "end": 3.177
+      },
+      {
+        "w": "LUFS,",
+        "start": 3.213,
+        "end": 3.534
+      },
+      {
+        "w": "and",
+        "start": 3.57,
+        "end": 3.891
+      },
+      {
+        "w": "a",
+        "start": 3.927,
+        "end": 4.248
+      },
+      {
+        "w": "review",
+        "start": 4.283,
+        "end": 4.605
+      },
+      {
+        "w": "sheet",
+        "start": 4.64,
+        "end": 4.962
+      },
+      {
+        "w": "shows",
+        "start": 4.997,
+        "end": 5.319
+      },
+      {
+        "w": "a",
+        "start": 5.354,
+        "end": 5.676
+      },
+      {
+        "w": "still",
+        "start": 5.711,
+        "end": 6.033
+      },
+      {
+        "w": "from",
+        "start": 6.068,
+        "end": 6.39
+      },
+      {
+        "w": "every",
+        "start": 6.425,
+        "end": 6.746
+      },
+      {
+        "w": "scene",
+        "start": 6.782,
+        "end": 7.103
+      },
+      {
+        "w": "on",
+        "start": 7.139,
+        "end": 7.46
+      },
+      {
+        "w": "one",
+        "start": 7.496,
+        "end": 7.817
+      },
+      {
+        "w": "page.",
+        "start": 7.853,
+        "end": 8.174
+      }
+    ]
+  },
+  {
+    "captionsOnly": true,
+    "text": "Write the script, render the video, and change a line whenever the facts change.",
+    "seconds": 5,
+    "words": [
+      {
+        "w": "Write",
+        "start": 0,
+        "end": 0.321
+      },
+      {
+        "w": "the",
+        "start": 0.357,
+        "end": 0.679
+      },
+      {
+        "w": "script,",
+        "start": 0.714,
+        "end": 1.036
+      },
+      {
+        "w": "render",
+        "start": 1.071,
+        "end": 1.393
+      },
+      {
+        "w": "the",
+        "start": 1.429,
+        "end": 1.75
+      },
+      {
+        "w": "video,",
+        "start": 1.786,
+        "end": 2.107
+      },
+      {
+        "w": "and",
+        "start": 2.143,
+        "end": 2.464
+      },
+      {
+        "w": "change",
+        "start": 2.5,
+        "end": 2.821
+      },
+      {
+        "w": "a",
+        "start": 2.857,
+        "end": 3.179
+      },
+      {
+        "w": "line",
+        "start": 3.214,
+        "end": 3.536
+      },
+      {
+        "w": "whenever",
+        "start": 3.571,
+        "end": 3.893
+      },
+      {
+        "w": "the",
+        "start": 3.929,
+        "end": 4.25
+      },
+      {
+        "w": "facts",
+        "start": 4.286,
+        "end": 4.607
+      },
+      {
+        "w": "change.",
+        "start": 4.643,
+        "end": 4.964
+      }
+    ]
+  }
+]

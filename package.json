@@ -1,0 +1,52 @@
+{
+  "name": "narrated-video-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Narrated explainer videos built in code with Remotion: one scene per script line, word-timed cues and captions, an optional ElevenLabs voice, a 16:9 cut of every vertical video, SRT export, loudness leveling, thumbnails and review sheets.",
+  "license": "Apache-2.0",
+  "author": "GoodHandoff (https://goodhandoff.com)",
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "scripts": {
+    "make": "node scripts/run.mjs make",
+    "studio": "node scripts/run.mjs remotion studio src/index.ts",
+    "render": "node scripts/run.mjs remotion render src/index.ts",
+    "still": "node scripts/run.mjs remotion still src/index.ts",
+    "narrate": "node scripts/run.mjs narrate",
+    "srt": "node scripts/run.mjs srt",
+    "finish": "node scripts/run.mjs finish",
+    "sfx": "sh scripts/sfx.sh",
+    "smoke": "remotion still src/index.ts sheet-explainer out/smoke/sheet.png && remotion still src/index.ts sheet-explainer-wide out/smoke/sheet-wide.png && remotion still src/index.ts thumb-explainer-a out/smoke/thumb-a.jpg --image-format=jpeg",
+    "build": "remotion bundle src/index.ts --out-dir build",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "coverage": "vitest run --coverage",
+    "check:licenses": "node scripts/run.mjs check-licenses",
+    "check": "npm run lint && npm run typecheck && npm run coverage && npm run build && npm run check:licenses"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.540",
+    "@remotion/google-fonts": "4.0.540",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.540",
+    "tsx": "4.23.15"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@remotion/player": "4.0.540",
+    "@types/node": "20.19.43",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitest/coverage-v8": "4.1.12",
+    "eslint": "10.14.0",
+    "happy-dom": "21.0.4",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.72.1",
+    "vite": "7.3.7",
+    "vitest": "4.1.12"
+  }
+}
