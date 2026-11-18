@@ -13,7 +13,7 @@ The example video explains the kit itself. Above is its wide cut, rendered by th
 ## Quick start
 
 ```bash
-git clone https://github.com/nussbeck-labs/narrated-video-kit.git && cd narrated-video-kit
+git clone https://github.com/GoodHand-Off/narrated-video-kit.git && cd narrated-video-kit
 npm ci
 npm run make -- explainer
 ```
